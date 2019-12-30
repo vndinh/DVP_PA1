@@ -3,11 +3,6 @@ Programming assignment 1, Digital Video Processing, EE, KAIST, Fall 2018
 
 1. Structure of directories
 
-PA#1_DinhVu
-	|--data
-	|--source
-	|--report
-
 	+ The folder 'data' contains the file Calendar_CIF30.yuv
 	+ All coding file are in the folder 'source'
 	+ Read my report 'Report_DVP_PA1_DinhVu_20184187.pdf' in the folder 'report'
